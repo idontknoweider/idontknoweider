@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Eider (@idontknoweider) 👋
+
+- 😄 Pronouns: they/them [ENG], elle [SPA], elli [CAT]
+
+- 🔭 I’m currently working on creating a repository that contains most of the tools used at my research group
+- 🌱 I’m currently learning (or trying to) a lot of things! Some of them are Julia, Machine Learning, dig deeper into complex systems and some languages!
+- 👯 I’m looking to collaborate on complex systems projects and little useful applications
+- 🤔 I’m looking for help with deep learning in Python
+- 💬 Ask me about anything! I love sharing random facts
+- 📫 How to reach me: eider.perezordoyo@upf.edu
+- ⚡ Fun fact: Did you know that when people say 'fun fact' most facts are not fun?
+
+
 
 <!--
 **idontknoweider/idontknoweider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
