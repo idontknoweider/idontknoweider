@@ -1,6 +1,6 @@
 ### Hi, I'm Eider (@idontknoweider) 👋
 
-- 😄 Pronouns: they/them [ENG], elle [SPA], elli [CAT]
+- 😄 Pronouns: she/her and they/them [ENG], ella/elle [SPA], elle/elli [CAT]
 
 - 🔭 I’m currently working on creating a repository that contains most of the tools used at my research group
 - 🌱 I’m currently learning (or trying to) a lot of things! Some of them are Julia, Machine Learning, dig deeper into complex systems and some languages!
